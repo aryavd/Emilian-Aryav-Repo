@@ -16,7 +16,7 @@ Refer to the template for review guidelines <https://github.com/aryavd/Emilian-A
 
 * What's in the Box? A Preliminary Analysis of Undesirable Content in the Common Crawl Corpus (https://arxiv.org/abs/2105.02732) 
 
-* In Marianne Bertrand and Sendhil Mullainathan’s audit study, “Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination,” fictitious résumés with randomized raced names are sent out to employers looking to hire. Since the résumés are identical except for the differently raced names of the applicants, the difference in callback rates between résumés with names raced white (the Emilys and Gregs) and résumés with names raced black (the Lakishas and Jamals) is interpreted as being due to the decision-makers’ perception of race (https://www.nber.org/papers/w9873)
+* Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination (https://www.nber.org/papers/w9873)
 
 * The meaning and measurement of bias: lessons from natural language processing (https://dl.acm.org/doi/abs/10.1145/3351095.3375671)
 
