@@ -5,7 +5,7 @@ Refer to the template for review guidelines <https://github.com/aryavd/Emilian-A
 * Beyond Accuracy: Behavioral Testing of NLP models with CheckList (https://arxiv.org/abs/2005.04118)
 * Gender Bias in Contextualized Word Embeddings (https://arxiv.org/abs/1904.03310)
 
-## Split reads between Aryav and Emilian
+## Split between Aryav and Emilian
 * Fairness in Machine Learning book (https://fairmlbook.org/index.html) 
 ** Chapter 2 on classification 
 ** Chapter 5 on testing discrimination in practice
