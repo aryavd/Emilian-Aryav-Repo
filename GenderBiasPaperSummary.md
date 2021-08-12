@@ -1,5 +1,5 @@
 <html>
-    <p>By: Emilian Sega</p>
+    <p>Summary by: Emilian Sega</p>
     <ul>
         <li>
             The major problem in the paper is noticing the inherent gender bias within ELMo, and how that can easily alter results. Some other issues are that ELMo is trained on unequal data, and that it unequally encodes information about male and female entities.
