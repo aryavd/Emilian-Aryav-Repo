@@ -6,10 +6,10 @@
 * What is the problem the authors wish to expose/solve?
 * What is the method used in the paper? What are the pros/cons of it?
 * How was the method evaluated?
-* What is your assessment of the evalutation? (Did they miss anything, should've test on more datasets, etc.)
+* What is your assessment of the evaluation? (Did they miss anything, should've test on more datasets, etc.)
 
 ### How can we use this paper in the project?
-1. Can we reuse the method or the datasets mentionned?
+1. Can we reuse the method or the datasets mentioned?
 2. If not, why?
 3. What concepts should we keep in mind when we do our research?
 
