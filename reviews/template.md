@@ -4,6 +4,7 @@
 ### Summary of the paper
 
 * What is the problem the authors wish to expose/solve?
+* **IMPORTANT** What are the contributions of this paper?
 * What is the method used in the paper? What are the pros/cons of it?
 * How was the method evaluated?
 * What is your assessment of the evaluation? (Did they miss anything, should've test on more datasets, etc.)
